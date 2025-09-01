@@ -15,11 +15,7 @@
 ## 🛠 Skills  
 
 **Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
@@ -42,16 +38,6 @@
 ## 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshnu&layout=compact&theme=tokyonight)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshnu&show_icons=true&theme=tokyonight)  
-
----
-
-## 🌟 Featured Projects  
-
-- **[ExplorAble](https://github.com/shivanshnu/explorable)** – Flutter-based social app for individuals with disabilities (500+ users)  
-- **[ElectiView](https://github.com/shivanshnu/electiview)** – Interactive election map w/ voting recommendations powered by LLaMA API  
-- **[Delta ML Models](https://github.com/shivanshnu/delta-ml)** – Flight delay & baggage forecasting (94% R² accuracy, 16+ min avg. delay reduction)  
-- **[Portfolio](https://shivanshupadhyay.com)** – My personal portfolio built with TypeScript + Next.js  
 
 ---
 
