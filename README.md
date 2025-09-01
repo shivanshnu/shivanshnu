@@ -2,7 +2,7 @@
 
 💼 **Actively seeking Summer 2026 Software Engineering Internships** — [📄 Resume](https://drive.google.com/file/d/your-resume-link/view)  
 
-🚀 **Building full-stack banking systems as an SWE Intern at Acorns**  
+🚀 **Currently a Full-Stack SWE Intern on the Banking Team at Acorns**  
 
 🏢 Previously at **Ford Motor Company (AI/ML & Data Engineering)** and **Delta Airlines (Machine Learning)**  
 
