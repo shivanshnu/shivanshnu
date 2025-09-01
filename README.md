@@ -24,8 +24,6 @@
 
 ## 🔗 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-upadhyay-/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivupad@umich.edu)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shivanshnu)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/shivansh-upadhyay-/)  ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:shivupad@umich.edu)  ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)(https://github.com/shivanshnu)  
 
 ---
