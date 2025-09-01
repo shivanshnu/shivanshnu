@@ -28,11 +28,6 @@
   🧑‍🤝‍🧑 Built with **Flutter + Supabase**, featuring buddy matching, activity logging, and social feeds.  
   🌟 Scaled to **500+ users**, promoting accessibility and community building.  
 
-- **[CFB Matchmaker](https://github.com/shivanshnu/CFB_Matchmaker)**  
-  AI-driven platform to help college football recruits find their best-fit schools.  
-  📊 Built with **Python (Jupyter)** to match players with programs using performance data and preferences.  
-  🏈 Enhanced decision-making for athletes by simulating fit across multiple recruiting factors.  
-
 - **[ElectiView](https://github.com/shivanshnu/ElectiView)**  
   Interactive political election map powered by **LLaMA API**.  
   🗳️ Visualizes historical state/county-level results and provides voting recommendations.  
@@ -41,7 +36,12 @@
 - **[JourniMate](https://github.com/shivanshnu/JourniMate)**  
   AI travel planning assistant.  
   🌍 Generates itineraries using **JavaScript + OpenAI API**, adapting to budget, group size, and current events.  
-  📈 Designed to improve travel planning efficiency and personalization.  
+  📈 Designed to improve travel planning efficiency and personalization.
+
+- **[CFB Matchmaker](https://github.com/shivanshnu/CFB_Matchmaker)**  
+  AI-driven platform to help college football recruits find their best-fit schools.  
+  📊 Built with **Python (Jupyter)** to match players with programs using performance data and preferences.  
+  🏈 Enhanced decision-making for athletes by simulating fit across multiple recruiting factors.  
 
 ---
 
