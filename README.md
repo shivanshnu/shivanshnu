@@ -1,18 +1,14 @@
 # Hi, I'm Shivansh Upadhyay 👋  
 
-🎓 Junior at the **University of Michigan** studying **Computer Science** (with a Math minor)  
-💻 Passionate about **full-stack development**, **AI/ML**, and **data-driven systems**  
-🌟 Experience across **FinTech, Automotive, and Airlines** building scalable and impactful solutions  
-📄 [Check out my resume](https://drive.google.com/file/d/your-resume-link/view)  
+💼 **Actively seeking Summer 2026 Software Engineering Internships** — [📄 Resume](https://drive.google.com/file/d/your-resume-link/view)  
 
----
+🚀 **Building full-stack banking systems as an SWE Intern at Acorns**  
 
-## 🚀 About Me  
+🏢 Previously at **Ford Motor Company (AI/ML & Data Engineering)** and **Delta Airlines (Machine Learning)**  
 
-- Currently a **Software Engineer Intern at Acorns** where I’m scaling check-deposit systems to handle 350+ daily users.  
-- Previously worked at **Ford Motor Company (AI/ML & Data Engineering)** and **Delta Airlines (Machine Learning)** to deliver AI-powered tools and predictive analytics.  
-- Creator of **ExplorAble**, a social networking app with 500+ users designed for individuals with disabilities.  
-- Always learning — from **transformer architectures** to **scalable backend systems** — and excited about applying tech to solve real-world challenges.  
+🎓 Junior at the **University of Michigan** studying **Computer Science & Math**  
+
+💡 Passionate about full-stack development, AI/ML, and scalable backend systems  
 
 ---
 
