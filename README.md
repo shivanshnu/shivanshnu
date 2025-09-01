@@ -1,6 +1,6 @@
 # Hi, I'm Shivansh Upadhyay 👋  
 
-💼 **Actively seeking Summer 2026 Software Engineering Internships** — [📄 Resume](https://drive.google.com/file/d/your-resume-link/view)  
+💼 **Actively seeking Summer 2026 Software Engineering Internships** — [📄 Shivansh Upadhyay Resume](https://drive.google.com/file/d/1-xlitnjJv4u0S2_ErvxTj-ufbc89L21s/view?usp=sharing)  
 
 🚀 **Currently a Full-Stack SWE Intern on the Banking Team at Acorns**  
 
