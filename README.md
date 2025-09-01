@@ -18,13 +18,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
 
 **Frameworks & Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)   
-
----
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshnu&layout=compact&theme=tokyonight)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)     
 
 ---
 
